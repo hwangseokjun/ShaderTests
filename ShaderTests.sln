@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaderTests", "ShaderTests\ShaderTests.csproj", "{EBE2E4A2-476E-47C0-91D5-4FC508F2E4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.Shaders", "Wpf.Shaders\Wpf.Shaders.csproj", "{A5FC9ABD-EB26-4179-9285-0DBF3D553685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE2E4A2-476E-47C0-91D5-4FC508F2E4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE2E4A2-476E-47C0-91D5-4FC508F2E4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE2E4A2-476E-47C0-91D5-4FC508F2E4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE2E4A2-476E-47C0-91D5-4FC508F2E4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5FC9ABD-EB26-4179-9285-0DBF3D553685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FC9ABD-EB26-4179-9285-0DBF3D553685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FC9ABD-EB26-4179-9285-0DBF3D553685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FC9ABD-EB26-4179-9285-0DBF3D553685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8B636BC-6966-4BEB-9513-D66ED8370D16}
+	EndGlobalSection
+EndGlobal
